@@ -27,10 +27,11 @@ technology roadmap
 
 ## Your work
 
-Draft a progressive modernization trajectory for the system
+Draft a progressive modernization trajectory for the system. You can do it as a brief text memo, or on a diagram (base diagram provided for Excalidraw or as image for any whiteboarding tool in this repo)
 
-You may want to use some or all of the following legacy patterns:
+You may want to quickly identify potential boundaries inside the monolith, then use some of the following legacy patterns:
 - Keep as-is / Extract and repair (as lib or as a service) / Rewrite with Strangler Application pattern / Add microservice
 - Legacy Macro-service / Change Data Capture / Legacy Read Model
-- Identifying bounded contexts
+
+
 
